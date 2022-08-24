@@ -1,0 +1,40 @@
+
+.bg-colour{
+        
+        background-image: linear-gradient(170deg, #68b4ee 15%,  #f359e6 100%);
+        min-height: 80vh;
+
+    }
+
+  .textbox{
+    
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 20px;
+  }
+
+    h3{       
+        font-style: normal; 
+        font-weight: bold; 
+        text-decoration: underline;
+        text-align: center;
+        text-decoration-color: #370398;
+        color:  rgb(55, 3, 152);
+      }
+      
+      table{
+        font-family: Calibri; 
+        color:white; 
+        font-size: 11pt; 
+        font-style: normal;
+        font-weight: bold;
+        border-collapse: collapse; 
+        border: 2px dashed black
+      }
+      table.inner{
+        border: 0px
+      }
+
+      .add{
+        resize: none;
+      }
